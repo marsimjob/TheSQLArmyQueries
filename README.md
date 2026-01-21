@@ -35,7 +35,7 @@ Soldaters uppdrag!
 Visar vilka enheter som är med i ett uppdrag och skapar en egen tabell  
 för relationsdata.
 
-##Vad för sorts queries hade jag valt?
+## Vad för sorts queries hade jag valt?
 
 Man kan dra fram olika typer av data på olika sätt från den här databasen:
 
