@@ -10,7 +10,7 @@ där databaser kunde komma till bra användning!
 Jag tycker militär‑ämnet är rätt lättförklarligt på ytan och det fanns rätt typ av data att hantera för att få min databas 
 att bli intressant för den som än kollade på det.
 
-##Mina tabeller
+## Mina tabeller
 
 ### **Rank**
 Olika rankar och deras titlar.
