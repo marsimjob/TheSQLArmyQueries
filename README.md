@@ -34,7 +34,6 @@ Visar vilka enheter som är med i ett uppdrag och skapar en egen tabell
 för relationsdata.
 
 ## Repots innehåll:
-
 x **SQL Queries I Databas**
    1. Seed‑data
    2. CRUD‑operationer
@@ -46,6 +45,15 @@ x **SQL Queries I Databas**
       Aggregationer (HAVING, WHERE),
       CTE
    6. Views och Stored PROCEDURE
+x -/ERDDiagram
+   ERD.png som vissar tabellernas förhållande
+x README, såklart!
+
+### Hur ska det köras?
+1. Klona ditt repo som vanligt
+2. Driv queries i ordning 01 >>> 10
+3. Hanvisa till kommenterer--
+   PS: ibland finns det fler än en query- då måste du kanske kommentera ut eller anpassa    
 
 ## Vad för sorts queries hade jag valt?
 Man kan dra fram olika typer av data på olika sätt från den här databasen:
