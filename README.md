@@ -33,6 +33,14 @@ Soldaters uppdrag!
 Visar vilka enheter som är med i ett uppdrag och skapar en egen tabell  
 för relationsdata.
 
+## Vad för sorts queries hade jag valt?
+Man kan dra fram olika typer av data på olika sätt från den här databasen:
+
+x Lista alla soldater med deras ranker
+x Räkna hur många vapen varje soldat har
+x Kolla vilka enheter som är på olika uppdrag
+...och mycket mer beroende på vad man vill utforska!
+
 ## Repots innehåll:
 x **SQL Queries I Databas**
    1. Seed‑data
@@ -50,18 +58,10 @@ x -/ERDDiagram
 x README, såklart!
 
 ### Hur ska det köras?
-1. Klona ditt repo som vanligt
+1. Klona detta repot som vanligt
 2. Driv queries i ordning 01 >>> 10
 3. Hanvisa till kommenterer--
    PS: ibland finns det fler än en query- då måste du kanske kommentera ut eller anpassa    
-
-## Vad för sorts queries hade jag valt?
-Man kan dra fram olika typer av data på olika sätt från den här databasen:
-
-x Lista alla soldater med deras ranker
-x Räkna hur många vapen varje soldat har
-x Kolla vilka enheter som är på olika uppdrag
-...och mycket mer beroende på vad man vill utforska!
 
 ## Vad ska bli nästa steg?
 Bygga vidare till en större fullstack applikation som används av svenska Försvarsmakten
